@@ -1,0 +1,10 @@
+Workers: 1
+n: 2305843009213693950
+k: 106000000
+p: 2305843009213693951
+C(n,k) mod p: 1
+P(n,k) mod p: 371586108296938858
+Wilson check: OK
+Total time: 59.445 s
+Worker compute times: 59.439
+Worker 1: 0 106000000 106000000 59.439
